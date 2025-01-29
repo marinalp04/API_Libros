@@ -3,6 +3,8 @@
 
 ## Descripción del Proyecto
 
+Enlace a Github Pages: https://marinalp04.github.io/API_Libros/
+
 Este proyecto es una aplicación web que permite buscar libros en la API de Gutendex en tiempo real.  
 Los usuarios pueden ingresar un término en la barra de búsqueda y ver una lista de libros que coincidan con su consulta.  
 
