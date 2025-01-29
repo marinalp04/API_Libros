@@ -30,5 +30,5 @@ GET https://gutendex.com/books?search=Sherlock
 Problema: Cada vez que el usuario ingresaba una letra, se enviaba una nueva solicitud a la API.
 Solución: Implementamos AbortController para cancelar la solicitud anterior y evitar sobrecarga.
 
-2.Algunos libros no tienen imagen de portada
+2. Algunos libros no tienen imagen de portada
 Solución: Se muestra una imagen por defecto en caso de que la API no proporcione una portada.
