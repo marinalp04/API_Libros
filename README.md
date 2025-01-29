@@ -21,7 +21,7 @@ La API de **Gutendex** se encuentra en:
 ### Ejemplo de consulta
 
 1️⃣ Para **buscar libros por título** con la palabra `Sherlock`:  
-```http
+
 GET https://gutendex.com/books?search=Sherlock
 
  Problemas encontrados y soluciones
